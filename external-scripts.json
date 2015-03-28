@@ -18,6 +18,6 @@
   "hubot-catgif",
   "hubot-cheers",
   "hubot-currency",
-  "hubot-spotify-search",
-  "hubot-euphemism"
+  "hubot-euphemism",
+  "hubot-spotify-me"
 ]

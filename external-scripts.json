@@ -19,5 +19,6 @@
   "hubot-cheers",
   "hubot-currency",
   "hubot-euphemism",
-  "hubot-spotify-me"
+  "hubot-spotify-me",
+  "hubot-giphy-gifme"
 ]

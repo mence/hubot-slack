@@ -13,5 +13,6 @@
   "hubot-seen",
   "hubot-thesimpsons",
   "hubot-fliptable",
-  "hubot-calculator"
+  "hubot-calculator",
+  "hubot-reaction"
 ]

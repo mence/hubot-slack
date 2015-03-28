@@ -17,5 +17,6 @@
   "hubot-reaction",
   "hubot-catgif",
   "hubot-cheers",
-  "hubot-currency"
+  "hubot-currency",
+  "hubot-spotify-search"
 ]

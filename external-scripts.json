@@ -16,5 +16,6 @@
   "hubot-calculator",
   "hubot-reaction",
   "hubot-catgif",
-  "hubot-cheers"
+  "hubot-cheers",
+  "hubot-currency"
 ]

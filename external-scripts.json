@@ -12,5 +12,6 @@
   "hubot-youtube",
   "hubot-seen",
   "hubot-thesimpsons",
-  "hubot-fliptable"
+  "hubot-fliptable",
+  "hubot-calculator"
 ]

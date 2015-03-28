@@ -8,7 +8,6 @@
     "hubot": "^2.11.4",
     "hubot-calculator": "^0.4.0",
     "hubot-catgif": "^0.1.1",
-    "hubot-cheers": "^1.0.0",
     "hubot-currency": "^1.0.1",
     "hubot-darksky": "^1.0.2",
     "hubot-diagnostics": "0.0.1",

@@ -6,6 +6,7 @@
   "description": "Bender will save the wedding",
   "dependencies": {
     "hubot": "^2.11.4",
+    "hubot-beer-me": "0.0.10",
     "hubot-calculator": "^0.4.0",
     "hubot-catgif": "^0.1.1",
     "hubot-currency": "^1.0.1",

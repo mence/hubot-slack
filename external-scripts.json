@@ -21,5 +21,6 @@
   "hubot-spotify-me",
   "hubot-giphy-gifme",
   "hubot-darksky",
-  "hubot-suggest"
+  "hubot-suggest",
+  "hubot-beer-me"
 ]

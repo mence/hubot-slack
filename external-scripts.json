@@ -20,5 +20,6 @@
   "hubot-euphemism",
   "hubot-spotify-me",
   "hubot-giphy-gifme",
-  "hubot-darksky"
+  "hubot-darksky",
+  "hubot-suggest"
 ]

@@ -11,5 +11,7 @@
   "eight-ball.coffee",
   "cricket.coffee",
   "cowsay.coffee",
-  "urban.coffee"
+  "urban.coffee",
+  "catfacts.coffee",
+  "alot.coffee"
 ]

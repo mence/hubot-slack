@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "author": "Tim Hordern <tim.hordern@gmail.com>",
-  "description": "Bender will save the wedding",
+  "description": "Bender will save us",
   "dependencies": {
     "hubot": "^2.11.4",
     "hubot-beer-me": "0.0.10",

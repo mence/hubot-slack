@@ -25,5 +25,6 @@
   "hubot-beer-me",
   "hubot-ambush",
   "hubot-mute",
-  "hubot-http-status"
+  "hubot-http-status",
+  "hubot-dogeme"
 ]

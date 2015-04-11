@@ -14,6 +14,7 @@
     "hubot-currency": "^1.0.1",
     "hubot-darksky": "^1.0.2",
     "hubot-diagnostics": "0.0.1",
+    "hubot-dogeme": "^1.0.0",
     "hubot-euphemism": "^1.0.1",
     "hubot-fliptable": "^1.2.0",
     "hubot-giphy-gifme": "^0.1.2",

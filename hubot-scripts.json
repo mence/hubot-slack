@@ -13,5 +13,9 @@
   "cowsay.coffee",
   "urban.coffee",
   "catfacts.coffee",
-  "alot.coffee"
+  "alot.coffee",
+  "directions.coffee",
+  "clark.coffee",
+  "chuck-norris.coffee",
+  "bang-bang.coffee"
 ]

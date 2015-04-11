@@ -23,5 +23,6 @@
   "hubot-darksky",
   "hubot-suggest",
   "hubot-beer-me",
-  "hubot-ambush"
+  "hubot-ambush",
+  "hubot-mute"
 ]

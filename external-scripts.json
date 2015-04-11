@@ -24,5 +24,6 @@
   "hubot-suggest",
   "hubot-beer-me",
   "hubot-ambush",
-  "hubot-mute"
+  "hubot-mute",
+  "hubot-http-status"
 ]

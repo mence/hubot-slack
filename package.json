@@ -13,6 +13,7 @@
     "hubot-calculator": "^0.4.0",
     "hubot-catgif": "^0.1.1",
     "hubot-currency": "^1.0.1",
+    "hubot-current-time": "^1.0.0",
     "hubot-darksky": "^1.0.2",
     "hubot-diagnostics": "0.0.1",
     "hubot-dogeme": "^1.0.0",

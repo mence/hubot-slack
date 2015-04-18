@@ -6,6 +6,7 @@
   "description": "Bender will save us",
   "dependencies": {
     "clark": "0.0.5",
+    "googlemaps": "0.1.20",
     "htmlparser": "1.7.6",
     "hubot": "^2.11.4",
     "hubot-ambush": "0.0.3",

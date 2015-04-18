@@ -3,8 +3,9 @@
 # 	Original Description: Messing around with the google map API.
 #
 # Commands:
-#   hubot gmap 'location'  - Return google map static image.
-#	hubot where is 'location' - Return google map static image.
+#   hubot gmap 'location' - Return google map static image.
+#   hubot google map me 'location' - Return google map static image.
+#   hubot where is 'location' - Return google map static image.
 
 gm = require("googlemaps")
 

@@ -2,8 +2,8 @@
 #   XKCD with a mild twist
 #
 # Commands:
-#   hubot make me a sandwich - No
-#   hubot sudo make me sandwich - User is not in the sudoers file
+#   hubot make me a sandwich - Demand a sandwich.
+#   hubot sudo make me sandwich - Demand a sandwich with more authority.
 
 deniedMsg = "What? Make it yourself."
 sudoMsg   = "Okay. http://www.kingarthurflour.com/shop-img/1272652133074.jpg"

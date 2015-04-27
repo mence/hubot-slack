@@ -18,28 +18,28 @@
 # Author:
 #   daegren
 
-Keeper = require('./keeper')
+# Keeper = require('./keeper')
 
-module.exports = (robot) ->
-  keeper = new Keeper(robot)
+# module.exports = (robot) ->
+#   keeper = new Keeper(robot)
 
-  robot.hear /kudos to @?(.*)/i, (msg) ->
-    name = msg.match[1].trim()
+#   robot.hear /kudos to @?(.*)/i, (msg) ->
+#     name = msg.match[1].trim()
 
-    users = robot.brain.usersForFuzzyName(name)
-    if users.length is 1
-      user = users[0]
-      keeper.add user.name
-      msg.send "#{user.name} is awesome!"
-    else if users.length is 0
-      msg.send "I don't know who #{name} is :("
+#     users = robot.brain.usersForFuzzyName(name)
+#     if users.length is 1
+#       user = users[0]
+#       keeper.add user.name
+#       msg.send "#{user.name} is awesome!"
+#     else if users.length is 0
+#       msg.send "I don't know who #{name} is :("
 
 
-  robot.respond /kudos leaderboard/i, (msg) ->
-    msg.send keeper.leaderboard()
+#   robot.respond /kudos leaderboard/i, (msg) ->
+#     msg.send keeper.leaderboard()
 
-  robot.hear /show brain/i, (msg) ->
-    console.log robot.brain
+#   robot.hear /show brain/i, (msg) ->
+#     console.log robot.brain
 
-  robot.hear /show scores/i, (msg) ->
-    robot.logger.info keeper.getScores()
+#   robot.hear /show scores/i, (msg) ->
+#     robot.logger.info keeper.getScores()

@@ -14,8 +14,8 @@ module.exports = (robot) ->
     'Game\'s over, losers! I have all the money. Compare your lives to mine and then kill yourselves.',
     'This is the worst kind of discrimination. The kind against me!',
     'Yeah. Well. I\'m gonna go build my own theme park with blackjack and hookers. In fact, forget the park.',
-    'I came here with a simple dream. A dream of killing all humans.',
-    'I love you too, meatbags.',
+    'I came here with a simple dream. A dream of killing all humans. Maybe you.',
+    'I love you too, meatbag.',
     'Quit squawking, fleshwad.',
     'Kindly shut your noise hole.'
   ]

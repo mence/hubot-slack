@@ -1,7 +1,3 @@
-# hubot greeting.
-#
-# (rock|spock|paper|lizard|scissors) - say hi to your butler
-
 # Description:
 #   Play 'rock paper scissors lizard spock with Hubot'
 #
@@ -12,7 +8,7 @@
 #   HUBOT_MSTRANSLATE_APIKEY
 #
 # Commands:
-#   <rock|paper|scissors|lizard|spock> - Choose which move to play
+#   hubot <rock|paper|scissors|lizard|spock> - Choose which move to play
 #
 # Author:
 #   danhigham

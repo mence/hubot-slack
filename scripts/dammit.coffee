@@ -20,6 +20,6 @@ module.exports = (robot) ->
     'Kindly shut your noise hole.'
   ]
 
-  robot.hear /(damn|Damn|dammit|Dammit|damn it|Damn it|damn you|Damn you) (bender|Bender)/i, (msg) ->
+  robot.hear /(damn|Damn|dammit|Dammit|damn it|Damn it|damn you|Damn you|Shut up|You suck|shut up|you suck) (bender|Bender)/i, (msg) ->
     msg.send msg.random benderInsults
 

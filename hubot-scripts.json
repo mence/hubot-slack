@@ -17,6 +17,7 @@
   "lyrics.coffee",
   "meme_captain.coffee",
   "mta.coffee",
+  "pgsql.coffee",
   "swanson.coffee",
   "urban.coffee",
   "wikipedia.coffee",

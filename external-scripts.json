@@ -21,6 +21,7 @@
   "hubot-pugme",
   "hubot-reaction",
   "hubot-redis-brain",
+  "hubot-rubygems-search",
   "hubot-rules",
   "hubot-seen",
   "hubot-shipit",

@@ -18,6 +18,7 @@
   "hubot-http-status",
   "hubot-maps",
   "hubot-mute",
+  "hubot-plusplus",
   "hubot-pugme",
   "hubot-reaction",
   "hubot-redis-brain",

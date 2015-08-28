@@ -18,6 +18,8 @@
   "meme_captain.coffee",
   "mta.coffee",
   "pgsql.coffee",
+  "ruby.coffee",
+  "rubygems.coffee",
   "swanson.coffee",
   "urban.coffee",
   "wikipedia.coffee",
